@@ -30,13 +30,14 @@ You can play it with a friend on the same device — Player **X** vs Player **O*
 
 ---
 
-## 📂 Files
+## 📂 Project Structure
 
----text
+```text
 tic-tac-toe/
 ├── index.html
 ├── style.css
 └── script.js
+```
 
 ---
 
